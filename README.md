@@ -1,3 +1,3 @@
 # Classification-of-News-Articles
 
-## Wordcloud Creation
+This repository contains code that was used for WordCloud Creation, Duplicates Detection and Classification of News Articles.
